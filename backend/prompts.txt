@@ -1,0 +1,5 @@
+Prompt 1: Build FastAPI to connect to ClickHouse using JWT token.
+Prompt 2: Upload CSV to ClickHouse using pandas.
+Prompt 3: Export ClickHouse table to CSV file.
+Prompt 4: Handle file upload with FastAPI form-data.
+Prompt 5: Run ClickHouse using Docker on Windows.
